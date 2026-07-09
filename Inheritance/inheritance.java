@@ -83,5 +83,6 @@ public class inheritance {
         m1.displayManager();
         m2.displayManager();
         
+        
     }
 }
