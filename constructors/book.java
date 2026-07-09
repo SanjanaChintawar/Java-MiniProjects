@@ -4,7 +4,7 @@ class library{
     String author;
     int price;
 
-    library(String bookName, String author, int price){
+    library(String bookName, String author, int price){ // parameterized constructor
         this.bookName = bookName;
         this.author = author;
         this.price = price;
