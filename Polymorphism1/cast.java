@@ -38,6 +38,13 @@ public class cast {
         for(Notification n : notifications){
             n.send();
         }
-        
+
+        // One loop.
+
+        // One method call.
+
+        // Three different outputs.
+
+        // This is true runtime polymorphism.
     }
 }
